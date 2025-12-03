@@ -4,6 +4,8 @@ A Foundry VTT Add-On Module by Gaming Ballistic
 
 This is the public repository for support of the [Warlock Knight Foundry VTT module](https://foundryvtt.com/packages/warlock-knight-dfrpg).
 
+## [Change Log](changelog.md)
+
 ## Warlock Knght
 
 **for Dungeon Fantasy RPG (Powered by GURPS).**
